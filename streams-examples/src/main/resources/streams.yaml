@@ -1,0 +1,9 @@
+parallelism: 1
+
+checkpoint:
+  interval:
+    ms: 10000
+
+network:
+  buffer:
+    bytes: 32768
